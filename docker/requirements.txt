@@ -33,7 +33,7 @@ keyring==10.6.0
 keyrings.alt==3.0
 langid==1.1.6
 logparser==0.8.2
-lxml==4.6.1
+lxml==4.6.3
 Mako==1.0.7
 MarkupSafe==1.1.1
 numpy==1.19.4
